@@ -1,0 +1,28 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database/temp/lock files
+*.db
+*.db-shm
+*.db-wal
+*.lock
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Rider / IntelliJ
+.idea/
